@@ -1,0 +1,46 @@
+main.pbi: \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\main.c \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\stm8s_conf.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_adc1.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc/stm8s.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_awu.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_beep.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_clk.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_exti.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_flash.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_gpio.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_i2c.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_itc.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_iwdg.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_rst.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_spi.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_tim1.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_tim2.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_tim4.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_uart1.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\STM8S_StdPeriph_Driver\inc\stm8s_wwdg.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common\heads.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common/usart.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common/timer1.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common/timer2.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common/timer4.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common/ADXL345.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common/iic.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common/adc.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common/LoRa.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common/IWDG.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common/awu.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\global.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\stm8s_it.h \
+  D:\NJUPT\Project\rail_bridge\LoRa\code\dev\multiTerminal-stm8s\Terminal\..\Common/ringBuffer.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\LIB\dlstm8smn.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h
